@@ -55,8 +55,10 @@ plt.show()
 
 '''
 ## Output
-<img width="700" height="583" alt="image" src="https://github.com/user-attachments/assets/f7a5ecba-6145-4d37-8f1e-d1d7100cc475" />
-<img width="677" height="522" alt="image" src="https://github.com/user-attachments/assets/81fd262d-19e1-4faf-8f3a-bc3563a2ac55" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/e6bbfb84-e315-4af6-91dd-cdba913381b7" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/eaf3dadc-0ad2-4c3b-83cc-4dcc09e59048" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/e1d4f116-68b1-4814-bb6f-2a63130926dd" />
+
 
 
 ## Result
